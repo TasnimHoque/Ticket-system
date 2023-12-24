@@ -1,0 +1,4 @@
+php artisan make:migration create_locations_table
+php artisan make:migration create_users_table
+php artisan make:migration create_trips_table
+php artisan make:migration create_seat_allocations_table
